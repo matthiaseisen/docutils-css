@@ -1,6 +1,4 @@
-# A stylesheet for HTML pages created with docutils
-
-## Usage:
+## Usage
 
 	rst2html.py --stylesheet=docutils_basic.css yourpage.rst yourpage.html
 
