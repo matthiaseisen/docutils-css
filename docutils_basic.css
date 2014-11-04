@@ -535,7 +535,9 @@ div.system-message p.system-message-title {
 
 
 p.caption {
-font-style: italic }
+    font-style: italic;
+    text-align: center;
+}
 
 p.credits {
 font-style: italic ;
